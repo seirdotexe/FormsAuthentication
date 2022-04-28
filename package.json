@@ -1,0 +1,15 @@
+{
+  "name": "formsauthentication",
+  "version": "1.0.1",
+  "description": "ASP.NET FormsAuthentication in Node.js.",
+  "main": "./lib/",
+  "type": "module",
+  "scripts": {
+    "test": "node ./test/"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "seirdotexe",
+  "license": "Apache-2.0"
+}
