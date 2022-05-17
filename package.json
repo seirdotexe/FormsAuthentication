@@ -1,7 +1,7 @@
 {
   "name": "formsauthentication",
-  "version": "1.0.1",
-  "description": "ASP.NET FormsAuthentication in Node.js.",
+  "version": "1.0.0",
+  "description": "ASP.NET (ASPXAUTH) FormsAuthentication in Node.js.",
   "main": "./lib/",
   "type": "module",
   "scripts": {

@@ -1,6 +1,6 @@
 # FormsAuthentication
 
-ASP.NET FormsAuthentication in Node.js.
+ASP.NET (ASPXAUTH) FormsAuthentication in Node.js.
 
 # Reference
 
